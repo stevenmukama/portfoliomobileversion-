@@ -9,10 +9,6 @@ This project was done with html and css.
 - css
 
 
-## Live Demo (Not available)
-
-
-
 ## Getting Started
 
 To get a local copy up and run git clone git clone https://github.com/stevenmukama/Hellomicroversee.git and follow these simple steps
